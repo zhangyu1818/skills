@@ -1,0 +1,7 @@
+interface:
+  display_name: "Git and GitHub Write As Bot"
+  short_description: "Force bot identity for git and GitHub writes"
+  default_prompt: "Use $git-github-write-as-bot before any git commit, git push, gh write, or GitHub MCP write."
+
+policy:
+  allow_implicit_invocation: true
