@@ -1,0 +1,7 @@
+interface:
+  display_name: "GH PR Review Loop"
+  short_description: "Loop on PR review, fix valid issues, and close resolved threads"
+  default_prompt: "Use $gh-pr-codex-review-loop to iterate on the current branch PR until chatgpt-codex-connector[bot] leaves a +1 reaction, fixing valid defects and resolving over-review threads with GITHUB_BOT_TOKEN."
+
+policy:
+  allow_implicit_invocation: true
