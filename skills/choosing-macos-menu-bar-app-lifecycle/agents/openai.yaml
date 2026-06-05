@@ -1,0 +1,7 @@
+interface:
+  display_name: "Choosing macOS Menu Bar App Lifecycle"
+  short_description: "Choose SwiftUI and AppKit lifecycle patterns for macOS menu bar apps"
+  default_prompt: "Use $choosing-macos-menu-bar-app-lifecycle when building or refactoring a macOS status bar or menu bar app and deciding between SwiftUI App, MenuBarExtra, Settings, NSApplicationDelegateAdaptor, or AppKit lifecycle."
+
+policy:
+  allow_implicit_invocation: true

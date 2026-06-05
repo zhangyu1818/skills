@@ -1,0 +1,7 @@
+interface:
+  display_name: "macOS Microphone Permission"
+  short_description: "Debug macOS microphone permission and TCC behavior"
+  default_prompt: "Use $macos-microphone-permission when a macOS app needs microphone permission, the system prompt does not appear, permission is denied unexpectedly, or TCC and Hardened Runtime audio input behavior needs debugging."
+
+policy:
+  allow_implicit_invocation: true

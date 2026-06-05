@@ -1,0 +1,7 @@
+interface:
+  display_name: "Setup Tailwind CSS"
+  short_description: "Install Tailwind CSS in existing Vite or Next.js apps"
+  default_prompt: "Use $setup-tailwindcss when adding Tailwind CSS latest to an existing Vite or Next.js project with the official Vite plugin or PostCSS integration."
+
+policy:
+  allow_implicit_invocation: true

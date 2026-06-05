@@ -1,0 +1,7 @@
+interface:
+  display_name: "Deep Research"
+  short_description: "Research source-sensitive claims with evidence gates and citations"
+  default_prompt: "Use $deep-research for source-sensitive, version-sensitive, technical, academic, product, policy, or current-information questions that require web/repo/doc research, cross-validation, conflict resolution, citations, or reproducible verification."
+
+policy:
+  allow_implicit_invocation: true

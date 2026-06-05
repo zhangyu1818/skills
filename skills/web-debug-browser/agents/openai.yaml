@@ -1,0 +1,7 @@
+interface:
+  display_name: "Web Debug Browser"
+  short_description: "Debug web pages with Chrome DevTools MCP"
+  default_prompt: "Use $web-debug-browser for browser automation, UI debugging, DevTools console or network inspection, screenshots, traces, or CDP-based local Chrome debugging."
+
+policy:
+  allow_implicit_invocation: true
