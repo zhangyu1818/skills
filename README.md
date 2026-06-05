@@ -7,7 +7,7 @@ Personal Codex skills for recurring engineering workflows. Each skill lives unde
 | Skill | Purpose |
 | --- | --- |
 | `choosing-macos-menu-bar-app-lifecycle` | Helps choose the right lifecycle model for macOS status bar and menu bar apps, especially when balancing SwiftUI `App`, `MenuBarExtra`, settings scenes, and focused AppKit bridges. |
-| `deep-search` | Provides an evidence-first research workflow for programming questions that need source code proof, official documentation, version anchoring, and cross-checking. |
+| `deep-research` | Provides an evidence-first research workflow for technical, academic, product, policy, or current-information questions that need claim decomposition, cross-validation, citations, and reproducible verification. |
 | `gh-pr-codex-review-loop` | Runs a GitHub PR review loop for Codex-reviewed pull requests, waiting for approval or surfacing actionable review feedback to fix and re-run. |
 | `git-github-write-as-bot` | Ensures agent-authored git commits, commit rewrites, pushes, and GitHub writes use the configured bot identity instead of a local human account. |
 | `macos-microphone-permission` | Guides implementation and debugging of macOS microphone permission flows, including TCC behavior, Hardened Runtime entitlements, and denied-state handling. |
