@@ -13,4 +13,5 @@ Personal Codex skills for recurring engineering workflows. Each skill lives unde
 | `macos-microphone-permission` | Guides implementation and debugging of macOS microphone permission flows, including TCC behavior, Hardened Runtime entitlements, and denied-state handling. |
 | `setup-tailwindcss` | Installs and wires Tailwind CSS v4 into existing Vite or Next.js projects using the official Vite or PostCSS integration path. |
 | `web-debug-browser` | Drives Chrome DevTools MCP for web UI debugging, browser automation, console and network inspection, screenshots, traces, and CDP-based local reproduction. |
-| `writing-spec` | Produces language-agnostic, RFC 2119-style system specifications using domain models, state machines, boundaries, invariants, failure semantics, validation matrices, and conformance checklists. |
+| `write-adrs` | Produces ADRs or ADR sets for durable architecture, technology, boundary, migration, security, and operational decisions without code-level over-prescription. |
+| `write-rfcs` | Produces BCP 14-style RFC sets that define behavior, boundaries, state ownership, failure semantics, invariants, and conformance gates. |

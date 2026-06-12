@@ -1,7 +1,0 @@
-interface:
-  display_name: "Writing SPEC"
-  short_description: "Write RFC 2119-style system specifications"
-  default_prompt: "Use $writing-spec to produce a language-agnostic SPEC.md defining behavior through domain models, state machines, boundaries, invariants, failure semantics, validation matrices, and conformance checklists."
-
-policy:
-  allow_implicit_invocation: true

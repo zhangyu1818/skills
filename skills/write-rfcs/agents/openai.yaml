@@ -1,0 +1,7 @@
+interface:
+  display_name: "Write RFCs"
+  short_description: "Draft RFC sets for behavior contracts"
+  default_prompt: "Use $write-rfcs to produce RFC sets that define behavior, boundaries, state ownership, failure semantics, invariants, and conformance gates."
+
+policy:
+  allow_implicit_invocation: true

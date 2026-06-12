@@ -1,0 +1,7 @@
+interface:
+  display_name: "Write ADRs"
+  short_description: "Draft durable ADRs for architecture decisions"
+  default_prompt: "Use $write-adrs to produce ADRs or ADR sets for durable architecture, technology, boundary, migration, security, or operational decisions."
+
+policy:
+  allow_implicit_invocation: true
